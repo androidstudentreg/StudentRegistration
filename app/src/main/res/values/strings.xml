@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">StudentInfo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="student_info">Student Info</string>
+
+    <string name="tv_edit">Edit</string>
+    <string name="tv_delete">Delete</string>
+
+    <string name="hint_username">username</string>
+    <string name="hint_password">password</string>
+    <string name="hint_regno">Regno</string>
+    <string name="hint_name">Name</string>
+
+    <string name="btn_login">Login</string>
+    <string name="btn_add">Add Student</string>
+
+    <string-array name="degree_array">
+        <item>Course</item>
+        <item>B.E</item>
+        <item>B.Sc</item>
+        <item>B.A</item>
+        <item>B.Tech</item>
+        <item>B.Arch</item>
+        <item>B.Com</item>
+        <item>M.Sc</item>
+        <item>M.A</item>
+        <item>M.Com</item>
+        <item>MCA</item>
+    </string-array>
+
+    <string-array name="dept_array">
+        <item>Department</item>
+        <item>CSE</item>
+        <item>MECH</item>
+        <item>Civil</item>
+        <item>EEE</item>
+        <item>ECE</item>
+        <item>EI</item>
+        <item>MCA</item>
+        <item>Architecture</item>
+        <item>IT</item>
+        <item>Computer Science</item>
+        <item>Maths</item>
+        <item>Physics</item>
+        <item>Chemistry</item>
+        <item>Biology</item>
+        <item>Commerce</item>
+        <item>English</item>
+    </string-array>
+
+
+
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="title_activity_student">StudentActivity</string>
+</resources>
